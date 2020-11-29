@@ -1,2 +1,1 @@
-# ANGRYBIRDS-PART1
-BOX MODEL
+# Box Class
